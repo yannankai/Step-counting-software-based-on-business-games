@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KQouFHt4lLc9qzb0Tfq6hPo9JHZO0Ttz7Fx26KUVSMcSaqW4ahiGPRVPOSD40R8YvrhyEOKCJiBMIK5NM1zOIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\小学期\\人机交互\\人机交互小组\\MediaElementDemos\\MediaElementDemos\\MediaElementDemos.iOS\\MediaElementDemos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.communitytoolkit\\1.0.0\\xamarin.communitytoolkit.1.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.communitytoolkit.markup\\1.0.0\\xamarin.communitytoolkit.markup.1.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iULmTrd/M2Q/R67hS/zz2N78LZzFffEPchbRJ6O6adW5r8D2N8ULTVmJusZpD6VI9qYy96QkhXVa3FppwH+6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\小学期\\人机交互\\人机交互小组\\MediaElementDemos\\MediaElementDemos\\MediaElementDemos\\MediaElementDemos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.communitytoolkit\\1.0.0\\xamarin.communitytoolkit.1.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.communitytoolkit.markup\\1.0.0\\xamarin.communitytoolkit.markup.1.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\5.0.0.2083\\xamarin.forms.5.0.0.2083.nupkg.sha512"
+  ],
+  "logs": []
+}
